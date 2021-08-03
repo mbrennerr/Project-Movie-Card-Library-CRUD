@@ -401,9 +401,9 @@ Na rota `/movies/new`, utilizando a callback passada para `MovieForm`, `NewMovie
 
 #### Requisitos bônus:
 
-### 7 - Adicione um botão para deletar um cartão em `MovieDetails`
+### 7 - Adicione um link para deletar um cartão em `MovieDetails`
 
-Ao clicar neste botão, faça uma requisição utilizando a função `deleteMovie` do módulo `movieAPI`. Após finalizar a requisição, redirecione o app para a página inicial. O cartão apagado não deverá mais se encontrar na lista.
+Ao clicar neste link, faça uma requisição utilizando a função `deleteMovie` do módulo `movieAPI`. Após finalizar a requisição, redirecione o app para a página inicial. O cartão apagado não deverá mais se encontrar na lista.
 
 #### O que será verificado:
 
